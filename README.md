@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sona Bijumon Prasobha 👋
 
-<!--
-**sonaprasobha04/sonaprasobha04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Support | Networking | Systems Administration
 
-Here are some ideas to get you started:
+I'm a Computer Systems Technician – Networking graduate with hands-on experience providing first-level IT support at ventureLAB. I enjoy troubleshooting technical issues, supporting users, and learning how IT systems and networks work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- **Operating Systems:** Windows 10/11, Windows Server, Ubuntu Linux, macOS troubleshooting
+- **Systems Administration:** Active Directory, Group Policy, DNS, DHCP, user accounts and permissions
+- **Networking:** TCP/IP, VLANs, subnetting, routing, switching, NAT, OSPF, Wi-Fi troubleshooting
+- **IT Support:** Printer troubleshooting, device setup, connectivity checks, technical documentation
+- **Tools & Virtualization:** PowerShell fundamentals, Windows Event Viewer, RSAT, VMware Workstation, Google Workspace
+
+### 🚀 Projects & Labs
+
+- **Windows Server Administration Lab** — Practiced user and group management, permissions, DNS, DHCP, and Group Policy.
+- **Networking Labs** — Worked with subnetting, VLANs, ACLs, routing, NAT, OSPF, and connectivity testing.
+- **Linux & Virtualization Labs** — Practiced Linux administration and virtual machine configuration using VMware Workstation.
+- **IT Support & Network Planning** — Gained practical experience troubleshooting printers and connectivity and researching office network infrastructure.
+
+### 📜 Certifications & Learning
+
+- Cisco CCNA Academic Achievement Certificate
+- ITIL Academic Certificate
+- AWS Certified Cloud Practitioner — In Progress
+
+### 🎯 Career Interests
+
+IT Support Analyst · Help Desk · Service Desk · Junior Systems Administrator
+
+I'm continuously improving my technical skills and building projects that demonstrate practical IT troubleshooting and networking knowledge.
